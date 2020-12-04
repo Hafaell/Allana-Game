@@ -46,4 +46,9 @@ var move = false
 		}
 	}
 
+//SCORE
+
+	if (Score == 2) {
+		room_goto(rm_win)
+	}
 
