@@ -2936,7 +2936,7 @@
             "y": 9647
         }
     ],
-    "sampleText": "asdasd",
+    "sampleText": "",
     "size": 20,
     "styleName": "Regular",
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f"
