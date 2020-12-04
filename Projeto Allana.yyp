@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "556ca6e1-80e4-4c8c-9039-43a17c08c140",
+            "Value": {
+                "id": "1c5d0da9-961d-4e59-b651-b15e48cc400f",
+                "resourcePath": "sounds\\mus_explosion\\mus_explosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "67c171e3-0245-4c07-96c6-c6a9015a4c65",
             "Value": {
                 "id": "98a2598e-db83-418c-8078-1fca2ca60cba",
