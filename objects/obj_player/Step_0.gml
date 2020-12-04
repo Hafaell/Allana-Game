@@ -1,14 +1,15 @@
 var move = false
+var playerW = 20
 
 	if (life <= 0) {
 		room_restart()	
 	}
  
  
-	if(x >= room_width) {
-		x = 0
-	} else if(x <= 0) {
-		x = room_width
+	if(x >= room_width - playerW) {
+		x = room_width - playerW
+	} else if(x <= playerW) {
+		x = playerW
 	}
  
  
@@ -48,7 +49,8 @@ var move = false
 
 //SCORE
 
-	if (Score == 2) {
+	if (Score == 100) {
 		room_goto(rm_win)
 	}
+
 
