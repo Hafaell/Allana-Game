@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "3eb085e6-2e30-436c-b9a1-338b1b88b1e0",
+            "Value": {
+                "id": "7c036258-357a-426d-8d7a-f4bdba9681e0",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3f47294d-3c28-4b0e-a305-44e728ad93eb",
             "Value": {
                 "id": "469d5dd8-4797-4384-a3bf-c8d8406abd56",
@@ -274,7 +282,7 @@
             "Key": "73e46090-174a-4397-a2d2-dcf176af1a56",
             "Value": {
                 "id": "6c487a2a-8116-46ca-be59-c23ec6b10d2b",
-                "resourcePath": "sprites\\sprite19\\sprite19.yy",
+                "resourcePath": "sprites\\spr_morango\\spr_morango.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -410,7 +418,7 @@
             "Key": "9a34cb57-5e3d-4e00-a7a7-38b301a9dc11",
             "Value": {
                 "id": "c738cda7-7e04-4a34-b292-54ae60cc3c44",
-                "resourcePath": "objects\\object17\\object17.yy",
+                "resourcePath": "objects\\obj_morango\\obj_morango.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -620,14 +628,6 @@
                 "id": "8a609e95-5c9b-46b4-b1d6-f9d0023a9ba0",
                 "resourcePath": "views\\dd0bf1c0-7fba-403b-bf51-bc9bc27fb43e.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ddec107b-d788-46dd-bf39-839b50e14b21",
-            "Value": {
-                "id": "f6713a54-9f99-46e2-b490-3c51fb6bfbfd",
-                "resourcePath": "sprites\\spr_background\\spr_background.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
