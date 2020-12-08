@@ -711,6 +711,14 @@
             }
         },
         {
+            "Key": "de855f64-d623-4c24-9bcf-f4daff386d95",
+            "Value": {
+                "id": "84a93692-5098-468c-aa38-92d01482b1c2",
+                "resourcePath": "sounds\\mus_walk\\mus_walk.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "f775329a-6d07-4135-b5d5-3278cf0f0c65",
