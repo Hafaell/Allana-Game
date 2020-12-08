@@ -1,5 +1,6 @@
 var move = false
 var playerW = 20
+s_emit = audio_emitter_create()
 
 	if (life <= 0) {
 		room_restart()	
@@ -24,6 +25,16 @@ var playerW = 20
 		image_xscale = 1
 		move = true
 	}
+	
+	
+	if(move){
+		if(!audio_is_playing(mus_walk)) {
+			audio_play_sound(mus_walk, 0, false)		  		
+		}
+	} else {
+		audio_stop_sound(mus_walk)	
+	}
+
 
 //ATIRANDO
 	if(keyboard_check_pressed(ord("X"))) {

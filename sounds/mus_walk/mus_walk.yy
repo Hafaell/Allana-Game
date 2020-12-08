@@ -1,14 +1,14 @@
 {
-    "id": "9c07833f-c58f-459c-9222-19fbb4d93d5c",
+    "id": "de855f64-d623-4c24-9bcf-f4daff386d95",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "mus_ts",
+    "name": "mus_walk",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,
     "preload": false,
-    "sampleRate": 48000,
+    "sampleRate": 44100,
     "type": 1,
-    "volume": 0.01
+    "volume": 0.12
 }
