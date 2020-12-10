@@ -783,6 +783,14 @@
             }
         },
         {
+            "Key": "db878750-57d3-4851-83b9-24294b0fd3d0",
+            "Value": {
+                "id": "917c6a90-775d-487b-8dab-edc38c4d00bb",
+                "resourcePath": "sounds\\mus_shoot\\mus_shoot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "dd0bf1c0-7fba-403b-bf51-bc9bc27fb43e",
             "Value": {
                 "id": "8a609e95-5c9b-46b4-b1d6-f9d0023a9ba0",
