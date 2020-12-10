@@ -1,6 +1,5 @@
 var move = false
 var playerW = 20
-s_emit = audio_emitter_create()
 
 	if (life <= 0) {
 		room_restart()	
