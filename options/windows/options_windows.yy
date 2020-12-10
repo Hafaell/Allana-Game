@@ -11,7 +11,7 @@
     "option_windows_description_info": "Jogo dedicado a Allana Bastos Diniz",
     "option_windows_disable_sandbox": false,
     "option_windows_display_cursor": true,
-    "option_windows_display_name": "Allana",
+    "option_windows_display_name": "Pitica",
     "option_windows_enable_steam": false,
     "option_windows_executable_name": "${Allana FNAF}",
     "option_windows_icon": "${options_dir}\\windows\\icons\\icon.ico",

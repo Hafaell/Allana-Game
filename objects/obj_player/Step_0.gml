@@ -42,6 +42,9 @@ var playerW = 20
 			objBull.vspeed = -10*image_yscale
 			ammo--
 			atirando = true
+			
+			if(!audio_is_playing(mus_shoot))
+				audio_play_sound(mus_shoot, 0 , false)
 		}
 	}
 	
